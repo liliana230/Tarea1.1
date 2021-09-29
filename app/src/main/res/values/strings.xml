@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimerAplicacion</string>
+    <string name="btnnames">SUMA</string>
+    <string name="btnnamer">RESTA</string>
+    <string name="btnnamed">DIVISION</string>
+    <string name="btnnamem">MULTIPLICACION</string>
+</resources>
